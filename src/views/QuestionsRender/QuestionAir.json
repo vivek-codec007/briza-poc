@@ -1,0 +1,1526 @@
+{
+    "id": "5340444a-3be3-44ea-a375-e9629c2c8fbb",
+    "questionnaire": {
+        "version": 2,
+        "layout": [
+            {
+                "ui": {
+                    "title": "Locations"
+                },
+                "meta": {
+                    "composition": "section"
+                },
+                "items": [
+                    {
+                        "ui": {
+                            "title": "General info"
+                        },
+                        "meta": {
+                            "composition": "section"
+                        },
+                        "items": [
+                            {
+                                "ui": {
+                                    "title": "Describe your business’s interest of the building at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1BuildingOwnership"
+                                ]
+                            },
+                            "PropertyBuildingCoverage",
+                            {
+                                "ui": {
+                                    "title": "Does your business want to __add building coverage for__:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1PropertyBuildingCoverage"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "What is the __replacement cost__ of the __building__ at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1BuildingLimit"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "What is the __replacement cost__ of your business’s __personal property__ at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1BusinessPersonalPropertyLimit"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ui": {
+                            "title": "Construction"
+                        },
+                        "meta": {
+                            "composition": "section"
+                        },
+                        "items": [
+                            {
+                                "ui": {
+                                    "title": "What is the __total square footage of the building__ at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1SquareFootageOfBuilding"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "How many __square feet__ does your business __occupy__ at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1SquareFeetOccupied"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "How many __stories tall is the building__ at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1NumberOfStoriesInBuilding"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "When was the building constructed (approximate year):"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1BuildingYearBuilt"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "Select the closest option for the __materials used to construct the building__ at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1BuildingConstruction"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "Is your business contemplating __any structural alterations__ to the premises at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1StructuralAlterationsPlan"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "What type of fire alarm is in the building at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1Building1FireAlarmType"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "Is there an __automatic sprinkler system in the building__ at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1AutomaticSprinkler"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "How many feet from the nearest fire hydrant is the building at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1FireHydrantDistance"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "How many miles from the nearest fire station is the building at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "Location1FireStationDistance"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "ui": {
+                    "title": "Business"
+                },
+                "meta": {
+                    "composition": "section"
+                },
+                "items": [
+                    {
+                        "ui": {
+                            "title": "General info"
+                        },
+                        "meta": {
+                            "composition": "section"
+                        },
+                        "items": [
+                            "BusinessOwnershipStructure",
+                            {
+                                "ui": {
+                                    "title": "What are your business’s __estimated revenue or gross sales__ over the next 12 months at:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "EstimatedAnnualGrossSales1"
+                                ]
+                            },
+                            "SimilarInsurance",
+                            "NumberOfYearsWithPropertyLiabilityInsurance",
+                            "AwareOfLosses",
+                            "InvolvedInOtherBusiness"
+                        ]
+                    },
+                    {
+                        "ui": {
+                            "title": "Activities"
+                        },
+                        "meta": {
+                            "composition": "section"
+                        },
+                        "items": [
+                            {
+                                "ui": {
+                                    "title": "Does your business provide:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "AcupunctureServices",
+                                    "ProvideSpaServices",
+                                    "BeautyWraps",
+                                    "ProvideChemicalPeels",
+                                    "MassageServiceProvided",
+                                    "ProvideCollagenInjectionServices",
+                                    "ProvidePermanentHairRemovalServices",
+                                    "ProvideDermabrasionServices",
+                                    "ProvideHairImplantServices",
+                                    "ProvideEyelashExtensionServices"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "Does your business offer any of the following beauty-related services:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "ProvidePermanentMakeupServices",
+                                    "ProvideBodyPiercing",
+                                    "ProvideTattooing"
+                                ]
+                            },
+                            {
+                                "ui": {
+                                    "title": "Does your business offer any of the following medically-related services:"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "ProvideLaserTreatmentServices"
+                                ]
+                            },
+                            "AnyProductCreationOrModification",
+                            "RentShopToIndependentOperators",
+                            "AreIndependentOperatorsInsured",
+                            "MassageServiceMoreThan10Percent",
+                            "CriminalBackgroundChecks"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ui": {
+                    "title": "Your primary contact info"
+                },
+                "meta": {
+                    "composition": "section"
+                },
+                "items": [
+                    {
+                        "ui": {
+                            "title": "Contact info"
+                        },
+                        "meta": {
+                            "composition": "section"
+                        },
+                        "items": [
+                            {
+                                "ui": {
+                                    "title": "Your primary contact info"
+                                },
+                                "meta": {
+                                    "composition": "group"
+                                },
+                                "items": [
+                                    "ApplicantFirstName",
+                                    "ApplicantLastName",
+                                    "EmailAddress",
+                                    "PhoneNumber",
+                                    "PhoneExtension",
+                                    "WebsiteAddress"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ui": {
+                            "title": "Policy details"
+                        },
+                        "meta": {
+                            "composition": "section"
+                        },
+                        "items": [
+                            "PolicyStartDate",
+                            "SubmittedByBroker"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "id": "PhoneNumber",
+                "question": "What is your __phone number__?",
+                "questionWithinGroup": "Phone number",
+                "type": "SingleLine",
+                "required": true,
+                "ui": {
+                    "mask": "(___) ___-____",
+                    "validation": {
+                        "pattern": "Please enter a valid 10-digit United States phone number"
+                    }
+                },
+                "validation": [
+                    {
+                        "type": "pattern",
+                        "pattern": "^[1-9]\\d{9}$"
+                    }
+                ]
+            },
+            {
+                "id": "ApplicantFirstName",
+                "question": "What is your __first name__?",
+                "questionWithinGroup": "First name",
+                "type": "SingleLine",
+                "ui": {},
+                "validation": [
+                    {
+                        "type": "length",
+                        "min": 1,
+                        "max": 25
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "ApplicantLastName",
+                "question": "What is your __last name__?",
+                "questionWithinGroup": "Last name",
+                "type": "SingleLine",
+                "ui": {},
+                "validation": [
+                    {
+                        "type": "length",
+                        "min": 1,
+                        "max": 25
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "EmailAddress",
+                "question": "What is your __email address__?",
+                "questionWithinGroup": "Email address",
+                "type": "SingleLine",
+                "required": true,
+                "ui": {
+                    "validation": {
+                        "pattern": "Enter a valid email address, for example: myname@example.com"
+                    }
+                },
+                "validation": [
+                    {
+                        "type": "pattern",
+                        "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z0-9]{2,}$"
+                    },
+                    {
+                        "type": "length",
+                        "min": 1,
+                        "max": 50
+                    }
+                ]
+            },
+            {
+                "id": "SubmittedByBroker",
+                "question": "Was this application completed by the insurance agent?",
+                "type": "Boolean",
+                "default": false,
+                "required": true,
+                "ui": {
+                    "control": "toggle"
+                },
+                "validation": []
+            },
+            {
+                "id": "BusinessOwnershipStructure",
+                "question": "What best describes your business’s ownership structure?",
+                "type": "Select",
+                "options": [
+                    {
+                        "label": "Association",
+                        "key": "association"
+                    },
+                    {
+                        "label": "Common Ownership",
+                        "key": "common-ownership"
+                    },
+                    {
+                        "label": "Corporation",
+                        "key": "corporation"
+                    },
+                    {
+                        "label": "Estate",
+                        "key": "estate"
+                    },
+                    {
+                        "label": "Executor",
+                        "key": "executor"
+                    },
+                    {
+                        "label": "Governmental Entity/Public Property",
+                        "key": "governmental-entity-public-property"
+                    },
+                    {
+                        "label": "Individual",
+                        "key": "individual"
+                    },
+                    {
+                        "label": "Joint Employers",
+                        "key": "joint-employers"
+                    },
+                    {
+                        "label": "Joint Venture",
+                        "key": "joint-venture"
+                    },
+                    {
+                        "label": "Labor Union",
+                        "key": "labor-union"
+                    },
+                    {
+                        "label": "Limited Liability Company (LLC)",
+                        "key": "limited-liability-company"
+                    },
+                    {
+                        "label": "Limited Liability Partnership (LLP)",
+                        "key": "limited-liability-partnership"
+                    },
+                    {
+                        "label": "Limited Partnership (LP)",
+                        "key": "limited-partnership"
+                    },
+                    {
+                        "label": "Non profit",
+                        "key": "non-profit"
+                    },
+                    {
+                        "label": "Partnership",
+                        "key": "partnership"
+                    },
+                    {
+                        "label": "Professional Corporation",
+                        "key": "professional-corporation"
+                    },
+                    {
+                        "label": "Religious Organization",
+                        "key": "religious-organization"
+                    },
+                    {
+                        "label": "Sole Proprietor",
+                        "key": "sole-proprietor"
+                    },
+                    {
+                        "label": "Trust",
+                        "key": "trust"
+                    },
+                    {
+                        "label": "Trustee",
+                        "key": "trustee"
+                    },
+                    {
+                        "label": "Unincorporated Association",
+                        "key": "unincorporated-association"
+                    },
+                    {
+                        "label": "More than one of the above",
+                        "key": "more-than-one-of-the-above"
+                    },
+                    {
+                        "label": "Other",
+                        "key": "other"
+                    }
+                ],
+                "ui": {},
+                "validation": [],
+                "required": true
+            },
+            {
+                "id": "Location1BuildingOwnership",
+                "question": "Describe your business’s interest of the building at 912 Noyes St",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "lessee",
+                        "label": "Tenant"
+                    },
+                    {
+                        "key": "residence",
+                        "label": "Home-based office - Residence"
+                    },
+                    {
+                        "key": "condo-commercial-unit-owner",
+                        "label": "Condo commercial unit owner"
+                    },
+                    {
+                        "key": "owner",
+                        "label": "Commercial building owner"
+                    }
+                ],
+                "ui": {
+                    "control": "dropdown",
+                    "hint": [
+                        "Tenant = A tenant is an individual or business that has a lease agreement with the owner of a building or property. The tenant pays rent in exchange for the right to occupy or use the property.",
+                        "Home-based office - Residence = A home-based office (residence) is an office that is located within a private residence. This type of office allows business owners to conduct business operations from their own home.",
+                        "Condo commercial unit owner = A condominium commercial unit owner is a business owner who owns a commercial space within a condominium complex. They may operate their business out of this condo unit or lease this space out to another business.",
+                        "Commercial building owner = A commercial building owner is a business owner who owns a commercial property. They may operate their business out of this building or lease this space out to another business."
+                    ]
+                },
+                "required": true
+            },
+            {
+                "id": "PropertyBuildingCoverage",
+                "question": "Does your business want to add building coverage for one or more of its locations?",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": true,
+                        "label": "Yes"
+                    },
+                    {
+                        "key": false,
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle",
+                    "hint": [
+                        "Building coverage",
+                        "**Building coverage** is separate from **business property coverage**.",
+                        "* **Building coverage** typically includes permanent machinery, equipment and fixtures.",
+                        "* **Business property coverage** typically includes office equipment, furniture, computers, etc.",
+                        "A Business Owner's Policy (BOP) typically includes business property coverage, but does not include building coverage."
+                    ]
+                },
+                "required": false
+            },
+            {
+                "id": "Location1BuildingLimit",
+                "question": "What is the __replacement cost__ of the __building__ at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Currency",
+                "currency": "USD",
+                "ui": {
+                    "hint": [
+                        "Types of Insurance",
+                        "If the building was flipped upside down, the **building** would be the things that stay in place, like the walls, pipes, floor, and windows. Your business’s **personal property** would be the things that fall, like tables, chairs, computers, and phones."
+                    ],
+                    "validation": {
+                        "pattern": "Please enter a dollar amount without cents."
+                    }
+                },
+                "condition": [
+                    "==",
+                    "$Location1PropertyBuildingCoverage",
+                    true
+                ],
+                "required": true
+            },
+            {
+                "id": "Location1SquareFeetOccupied",
+                "question": "How many __square feet__ does your business __occupy__ at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Number",
+                "ui": {},
+                "validation": [
+                    {
+                        "type": "range",
+                        "min": 0
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "Location1BusinessPersonalPropertyLimit",
+                "question": "What is the __replacement cost__ of your business’s __personal property__ at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Currency",
+                "currency": "USD",
+                "ui": {
+                    "hint": [
+                        "Types of Insurance",
+                        "If the building was flipped upside down, the **building** would be the things that stay in place, like the walls, pipes, floor, and windows. Your business’s **personal property** would be the things that fall, like tables, chairs, computers, and phones.",
+                        "Limit may vary based on carrier appetite, please review quote carefully."
+                    ],
+                    "validation": {
+                        "pattern": "Please enter a dollar amount without cents."
+                    }
+                },
+                "validation": [
+                    {
+                        "type": "range",
+                        "min": 0
+                    },
+                    {
+                        "type": "pattern",
+                        "pattern": "^\\d{1,12}$"
+                    }
+                ],
+                "condition": [
+                    "IN",
+                    "$Location1BuildingOwnership",
+                    [
+                        "owner",
+                        "lessee",
+                        "residence",
+                        "condo-commercial-unit-owner"
+                    ]
+                ],
+                "required": true
+            },
+            {
+                "id": "Location1BuildingConstruction",
+                "question": "Select the closest option for the __materials used to construct the building__ at 912 Noyes St:",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "frame-construction",
+                        "label": "Frame construction"
+                    },
+                    {
+                        "key": "joisted-masonry",
+                        "label": "Joisted masonry"
+                    },
+                    {
+                        "key": "light-non-combustible",
+                        "label": "Light Non-combustible"
+                    },
+                    {
+                        "key": "masonry-non-combustible",
+                        "label": "Masonry non-combustible"
+                    },
+                    {
+                        "key": "modified-fire-resistive",
+                        "label": "Modified fire resistive"
+                    },
+                    {
+                        "key": "fire-resistive",
+                        "label": "Fire resistive"
+                    }
+                ],
+                "ui": {
+                    "hint": [
+                        "Building Construction",
+                        "**Frame** Wood framed sides, wood framed roof.",
+                        "**Joisted Masonry** Brick/Masonry framed sides, wood framed roof.",
+                        "**Non-Combustible** Metal sides, metal framed roof.",
+                        "**Masonry Non-Combustible** Brick/Masonry sides, metal framed roof.",
+                        "**Modified Fire Resistive** Brick/Masonry sides, Brick/Masonry framed roof (at least 1 Hour fire resistance rating).",
+                        "**Fire Resistive** Brick/Masonry sides, Brick/Masonry framed roof (at least 2 Hour fire resistance rating)."
+                    ]
+                },
+                "validation": [],
+                "required": true
+            },
+            {
+                "id": "Location1NumberOfStoriesInBuilding",
+                "question": "How many __stories tall is the building__ at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Number",
+                "ui": {
+                    "validation": {
+                        "range": "Please enter a valid number of stories in range of between 1 to 255."
+                    }
+                },
+                "validation": [
+                    {
+                        "type": "range",
+                        "min": 1,
+                        "max": 255
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "Location1SquareFootageOfBuilding",
+                "question": "What is the __total square footage of the building__ at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Number",
+                "ui": {},
+                "validation": [
+                    {
+                        "type": "range",
+                        "max": 999999999,
+                        "min": 1
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "Location1AutomaticSprinkler",
+                "question": "Is there an __automatic sprinkler system in the building__ at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "required": false
+            },
+            {
+                "id": "Location1FireHydrantDistance",
+                "question": "How many feet from the nearest fire hydrant is the building at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Number",
+                "ui": {},
+                "validation": [
+                    {
+                        "type": "range",
+                        "min": 0
+                    }
+                ],
+                "required": false
+            },
+            {
+                "id": "Location1StructuralAlterationsPlan",
+                "question": "Is your business contemplating __any structural alterations__ to the premises at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "required": true
+            },
+            {
+                "id": "Location1BuildingYearBuilt",
+                "question": "When was the building at 912 Noyes St constructed (approximate year)?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "DateYear",
+                "ui": {
+                    "validation": {
+                        "year": "Please enter a valid built year."
+                    }
+                },
+                "validation": [
+                    {
+                        "type": "year",
+                        "start": "-200y",
+                        "end": 0
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "Location1Building1FireAlarmType",
+                "question": "What type of fire alarm is in the building at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "local-alarm",
+                        "label": "Local Alarm"
+                    },
+                    {
+                        "key": "central-alarm",
+                        "label": "Central Station"
+                    },
+                    {
+                        "key": "monitored-by-company",
+                        "label": "Monitored System - by Monitoring Company"
+                    },
+                    {
+                        "key": "monitored-by-fire-police",
+                        "label": "Monitored System - by Fire/Police Department"
+                    },
+                    {
+                        "key": "no-alarm",
+                        "label": "No Alarm"
+                    }
+                ],
+                "ui": {
+                    "hint": [
+                        "Fire Alarm Types",
+                        "Local Alarm: Sets off a bell, siren and/or a strobe light in close proximity to the condition that caused the alarm to go off.",
+                        "Central Station: This type of system will also notify a main panel somewhere in the building (usually the lobby).",
+                        "Monitored System - by Monitoring Company: This type of Central Station system will also notify a monitoring company who may then respond to the alarm themselves or notify the Fire/Police Department in an effort to decrease the response time to the condition that caused the alarm to go off.",
+                        "Monitored System - by Fire/Police Department: This type of Central Station system will also notify the Fire/Police Department directly in an effort to decrease the response time to the condition that caused the alarm to go off."
+                    ]
+                },
+                "required": true
+            },
+            {
+                "id": "EstimatedAnnualGrossSales1",
+                "question": "What are your business’s __estimated revenue or gross sales__ over the next 12 months at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Currency",
+                "currency": "USD",
+                "ui": {
+                    "hint": [
+                        "Estimated revenue or gross sales",
+                        "If your business is primarily compensated by commissions (like a real estate agent or travel agent), estimate the total value of your business’s commissions, not the total value of the sales which these commissions are based on.",
+                        "Include any government subsidies and charitable donations or contributions (if applicable)."
+                    ],
+                    "validation": {
+                        "pattern": "Please enter a dollar amount without cents."
+                    }
+                },
+                "validation": [
+                    {
+                        "type": "range",
+                        "min": 1
+                    },
+                    {
+                        "type": "pattern",
+                        "pattern": "^\\d{1,12}$"
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "PolicyStartDate",
+                "question": "When does your business want coverage to start?",
+                "type": "Date",
+                "ui": {},
+                "validation": [
+                    {
+                        "type": "date",
+                        "start": 0
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "PhoneExtension",
+                "question": "What is your __phone extension__?",
+                "questionWithinGroup": "Extension",
+                "type": "SingleLine",
+                "ui": {
+                    "validation": {
+                        "pattern": "Only numbers, +, and * allowed"
+                    }
+                },
+                "validation": [
+                    {
+                        "type": "length",
+                        "max": 10
+                    },
+                    {
+                        "type": "pattern",
+                        "pattern": "^[\\d\\+\\* ]*$"
+                    }
+                ],
+                "required": false
+            },
+            {
+                "id": "SimilarInsurance",
+                "question": "Does your business currently have an insurance policy in effect for the coverage requested?",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "required": true
+            },
+            {
+                "id": "AcupunctureServices",
+                "question": "Does your business provide __acupuncture services__?",
+                "questionWithinGroup": "Acupuncture services",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "Yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "No",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "required": true
+            },
+            {
+                "id": "AwareOfLosses",
+                "question": "Is your business aware of any losses that have not resulted in a claim?",
+                "type": "Select",
+                "ui": {
+                    "control": "toggle"
+                },
+                "options": [
+                    {
+                        "key": "YES",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "NO",
+                        "label": "No"
+                    }
+                ],
+                "required": true
+            },
+            {
+                "id": "NumberOfYearsWithPropertyLiabilityInsurance",
+                "question": "How many years has your business had Property / Liability Insurance?",
+                "type": "Number",
+                "ui": {},
+                "validation": [
+                    {
+                        "type": "range",
+                        "min": 0,
+                        "max": 100
+                    }
+                ],
+                "condition": [
+                    "==",
+                    "$SimilarInsurance",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "WebsiteAddress",
+                "question": "What is your business’s __website__?",
+                "questionWithinGroup": "Website",
+                "type": "SingleLine",
+                "ui": {
+                    "hint": [
+                        "Business website",
+                        "Please provide the URL of your business’s website or other public-facing online profile (e.g. Facebook page).",
+                        "This helps insurance companies ensure that your business has been classified appropriately based on what it does."
+                    ],
+                    "validation": {
+                        "pattern": "Please enter a valid website address, for example: www.example.com"
+                    }
+                },
+                "validation": [
+                    {
+                        "type": "pattern",
+                        "pattern": "^(https?:\\/\\/)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?&//=]*)$"
+                    }
+                ],
+                "required": false
+            },
+            {
+                "id": "InvolvedInOtherBusiness",
+                "question": "Do the owners of your business operate or own any other business, have any subsidiaries, or is your business a subsidiary of another company?",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "default": "no",
+                "ui": {
+                    "control": "toggle"
+                },
+                "required": true
+            },
+            {
+                "id": "AnyProductCreationOrModification",
+                "question": "Does your business perform product manufacturing?",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "hint": [
+                        "For example: mixing, blending, compounding, re-labeling or repackaging products"
+                    ],
+                    "control": "toggle"
+                },
+                "required": true
+            },
+            {
+                "id": "RentShopToIndependentOperators",
+                "question": "Does your business rent to any independent operators?",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "required": true
+            },
+            {
+                "id": "AreIndependentOperatorsInsured",
+                "question": "Are all contractors licensed and required to show proof of their own insurance?",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$RentShopToIndependentOperators",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "MassageServiceMoreThan10Percent",
+                "question": "Do massage services account for more than 10% of operations?",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "AND",
+                    [
+                        "==",
+                        "$ProvideSpaServices",
+                        "yes"
+                    ],
+                    [
+                        "==",
+                        "$MassageServiceProvided",
+                        "yes"
+                    ]
+                ],
+                "required": true
+            },
+            {
+                "id": "CriminalBackgroundChecks",
+                "question": "Are criminal background checks conducted before hiring masseuse/masseur?",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$MassageServiceMoreThan10Percent",
+                    "no"
+                ],
+                "required": true
+            },
+            {
+                "id": "Location1FireStationDistance",
+                "question": "How many miles from the nearest fire station is the building at 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Number",
+                "ui": {},
+                "validation": [
+                    {
+                        "type": "range",
+                        "min": 0
+                    }
+                ],
+                "required": false
+            },
+            {
+                "id": "ProvideBodyPiercing",
+                "question": "Does your business provide body piercing (except for ear piercing)?",
+                "questionWithinGroup": "Body piercings",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "required": true
+            },
+            {
+                "id": "ProvideTattooing",
+                "question": "Does your business provide tattooing?",
+                "questionWithinGroup": "Tattooing",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "required": true
+            },
+            {
+                "id": "ProvideSpaServices",
+                "question": "Does your business provide spa services?",
+                "questionWithinGroup": "Spa services",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle",
+                    "hint": [
+                        "For example, beauty, esthetician, or massage-related services such as body wraps, laser treatment services, permenant makeup services, chemical peels, etc."
+                    ]
+                },
+                "required": true
+            },
+            {
+                "id": "BeautyWraps",
+                "question": "Does your business perform body wraps?",
+                "questionWithinGroup": "Body wraps",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "Yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "No",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "ProvideLaserTreatmentServices",
+                "question": "Does your business provide laser treatment services?",
+                "questionWithinGroup": "Laser treatment",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "ProvidePermanentMakeupServices",
+                "question": "Does your business provide permanent makeup services?",
+                "questionWithinGroup": "Permanent makeup",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "ProvideChemicalPeels",
+                "question": "Does your business provide chemical peels?",
+                "questionWithinGroup": "Chemical peels",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "MassageServiceProvided",
+                "question": "Are massage services provided?",
+                "questionWithinGroup": "Massage services",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "Yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "No",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "ProvideCollagenInjectionServices",
+                "question": "Does your business provide collagen injection services?",
+                "questionWithinGroup": "Collagen injection services",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "ProvidePermanentHairRemovalServices",
+                "question": "Does your business provide permanent hair removal services?",
+                "questionWithinGroup": "Permanent hair removal services",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "ProvideDermabrasionServices",
+                "question": "Does your business provide dermabrasion services?",
+                "questionWithinGroup": "Dermabrasion services",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "ProvideHairImplantServices",
+                "question": "Does your business provide hair implant services?",
+                "questionWithinGroup": "Hair implant services",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "ProvideEyelashExtensionServices",
+                "question": "Does your business provide eyelash extension services?",
+                "questionWithinGroup": "Eyelash extension services",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": "yes",
+                        "label": "Yes"
+                    },
+                    {
+                        "key": "no",
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$ProvideSpaServices",
+                    "yes"
+                ],
+                "required": true
+            },
+            {
+                "id": "Location1PropertyBuildingCoverage",
+                "question": "Does your business want to __add building coverage for__ 912 Noyes St?",
+                "questionWithinGroup": "912 Noyes St",
+                "type": "Select",
+                "options": [
+                    {
+                        "key": true,
+                        "label": "Yes"
+                    },
+                    {
+                        "key": false,
+                        "label": "No"
+                    }
+                ],
+                "ui": {
+                    "control": "toggle"
+                },
+                "condition": [
+                    "==",
+                    "$PropertyBuildingCoverage",
+                    true
+                ],
+                "required": true
+            }
+        ]
+    },
+    "answers": {
+        "BusinessName": "Nail Salon Inc",
+        "LinkEmail": "test@test.com",
+        "RequestedTypesOfInsurance": [
+            "bop"
+        ],
+        "NumberOfLocations": 1,
+        "Location1Address": {
+            "street": "912 Noyes St",
+            "secondary": "",
+            "city": "Evanston",
+            "region": "IL",
+            "postalCode": "60201",
+            "county": "",
+            "country": "US"
+        },
+        "Location1ClassOfBusiness": "812113"
+    },
+    "status": "created",
+    "timeZone": "Etc/UTC",
+    "createdAt": "2023-11-21T05:13:56.721Z",
+    "updatedAt": "2023-11-21T05:13:56.721Z",
+    "questionnaireIsLatest": true
+}

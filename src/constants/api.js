@@ -1,0 +1,7 @@
+export const CREATE_PRE_APP = "pre-applications"
+export const WORKER_COMPENSATION = "workers-compensation-class-codes"
+export const BUISNESS_CLASS = "business-classes"
+export const SUBMIT_PRE_ANSWER = "pre-applications"
+export const CREATE_APP = "applications"
+export const CREATE_QUOTE = "quotes"
+export const GET_QUOTE_LIST = "quotes/?applicationId"
